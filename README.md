@@ -25,6 +25,9 @@ npm install
 - [ ] Version your APIs
 - [ ] Introduce continuous integration
 - [ ] Enable Docker support 
+- [ ] Use an APM tool
+- [ ] Use ElasticSearch to power application-wide searches in your client apps
+- [ ] Put a firewall in your production server
 
 
 
