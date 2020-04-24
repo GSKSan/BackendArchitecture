@@ -13,8 +13,8 @@ npm install
 ```
 
 ## Components
-- [ ] Authentication
-- [ ] Abstract model to be inherited by every other model in the DB
+- [x] Authentication
+- [x] Abstract model to be inherited by every other model in the DB
 - [ ] Set up a notification microservice
 - [ ] Set up error logging
 - [ ] Implement request : response and application logging
